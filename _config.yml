@@ -44,6 +44,9 @@ version: 3.0.0
 nav:
   - title: Blog
     url: /blog
+    
+  - title: Twitter
+    url: https://twitter.com/ComnityHQ
 
-  - title: About
-    url: /about
+#   - title: About
+#     url: /about
